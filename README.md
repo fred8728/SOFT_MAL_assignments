@@ -25,7 +25,6 @@ Create a program that can:
 
 • be extended with other sorting algorithms in the future.
 • messure and log the time used for each algorithm as a function of the file size in words.
-
+```
 ### Solution NOT DONE YET
 [Sorting](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/SOFT_MAL/src/Sorting)
-```
