@@ -1,6 +1,10 @@
 # Discrete mathematics and algorithms
+## Assignment 1 
+```
+Coming soon
+```
 
-## Assignment 1
+## Assignment 2
 ```
 Implement implementations of the Union-find algorithms:
 • Quick-union
@@ -8,7 +12,7 @@ Implement implementations of the Union-find algorithms:
 ```
 ### Solution: [UnionFind](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/SOFT_MAL/src/UnionFind)
 
-## Assignment 2
+## Assignment 3
 ```
 Create a program that can: 
 • read any textfile (as the above) into an array or List2
@@ -26,5 +30,5 @@ Create a program that can:
 • be extended with other sorting algorithms in the future.
 • messure and log the time used for each algorithm as a function of the file size in words.
 ```
-### Solution NOT DONE YET
-[Sorting](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/SOFT_MAL/src/Sorting)
+### Solution 
+[Sorting](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/SOFT_MAL/src/SortingFile)
