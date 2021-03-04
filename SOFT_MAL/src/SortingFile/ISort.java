@@ -1,8 +1,8 @@
-package Sorting;
+package SortingFile;
 
-public interface ISorting {
+public interface ISort {
 
-    public String[] sort(String arr[]);
+    public <E extends Comparable<E>> void sort(E[] array);
     default void printArray(String arr[])
     {
         int n = arr.length;

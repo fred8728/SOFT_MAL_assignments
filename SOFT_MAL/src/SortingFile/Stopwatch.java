@@ -1,4 +1,4 @@
-package Sorting;
+package SortingFile;
 import java.io.PrintStream;
 
 public class Stopwatch implements AutoCloseable {
