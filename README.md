@@ -1,7 +1,7 @@
 # Discrete mathematics and algorithms
 ## Assignment 1 
 ```
-Create a program i Prolog.
+Create a program in Prolog.
 You can either invent your own problem to solve or use one of the ideas described below. 
 ```
 ### Solution: [Prolog](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/SOFT_MAL/src/Prolog)
