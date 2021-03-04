@@ -1,6 +1,6 @@
-package InClass_IntArrays;
+package ClassActivities.Sorting;
 
-public class HeapIntSort implements ISort{
+public class HeapIntSort implements ISort {
 
     @Override
     public void sort(int[] arr) {

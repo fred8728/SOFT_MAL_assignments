@@ -1,4 +1,6 @@
-package InClass_IntArrays;
+package ClassActivities.Sorting;
+
+import ClassActivities.Sorting.HeapIntSort;
 
 public class Test {
     public static void main(String[] args) {

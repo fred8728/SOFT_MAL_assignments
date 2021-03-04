@@ -1,4 +1,6 @@
-package InClass_IntArrays;
+package ClassActivities.Sorting;
+
+import ClassActivities.Sorting.ISort;
 
 public class QuickIntSort implements ISort {
 

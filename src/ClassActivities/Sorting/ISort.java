@@ -1,4 +1,4 @@
-package InClass_IntArrays;
+package ClassActivities.Sorting;
 
 public interface ISort {
 
