@@ -17,7 +17,7 @@ public class Test {
         heapSort.printArray(arr1);
         System.out.println("\n_______________________");
 
-        /*System.out.println("_______________________");
+        System.out.println("_______________________");
         System.out.println("QuickSort");
         System.out.println("_______________________");
         int[] arr2 = {1,5,2,9,44,5,2,6,1,6,99,55,88,7,565};
@@ -26,6 +26,6 @@ public class Test {
 
         System.out.println("Sorted array: ");
         qs.printArray(arr2);
-        System.out.println("\n_______________________");*/
+        System.out.println("\n_______________________");
     }
 }
