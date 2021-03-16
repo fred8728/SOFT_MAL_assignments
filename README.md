@@ -34,3 +34,9 @@ Create a program that can:
 ```
 ### Solution 
 [Sorting](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/src/SortingFile)
+
+## Assignment 4
+```
+Create a Visual (text-based or GUI) recursive version of Towers of Hanoi
+```
+### Solution [TowerOfHanoi](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/src/TowersOfHanoi)
