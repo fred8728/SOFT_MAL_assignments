@@ -1,4 +1,4 @@
-package ClassActivities.Searching;
+package ClassActivities.Searching.HashMap;
 
 public interface SimpleMap <K, V>{
 

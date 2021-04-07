@@ -1,6 +1,6 @@
-package ClassActivities.Searching;
+package ClassActivities.Searching.HashMap;
 
-import java.util.HashMap;
+import ClassActivities.Searching.HashMap.MyHashMap;
 
 public class Test {
 

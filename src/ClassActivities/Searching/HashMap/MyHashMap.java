@@ -1,8 +1,8 @@
-package ClassActivities.Searching;
+package ClassActivities.Searching.HashMap;
 
 import java.util.ArrayList;
 
-public class MyHashMap <K, V> implements SimpleMap<K, V>{
+public class MyHashMap <K, V> implements SimpleMap<K, V> {
 
     private ArrayList<KeyValue<K, V>>[] array;
 
