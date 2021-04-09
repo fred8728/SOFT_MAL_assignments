@@ -18,3 +18,7 @@
 ## Assignment 5 - Analysing log data 
 ## [Assignment PDF](https://github.com/fred8728/SOFT_MAL_assignments/blob/master/PDF_assignments/Regex.pdf)
 * Solution - Coming soon
+
+## Assignment 5 - Analysing log data 
+## [Assignment PDF](https://github.com/fred8728/SOFT_MAL_assignments/blob/master/PDF_assignments/StaticAnalysis_5a.pdf)
+* [Solution](https://github.com/fred8728/SOFT_MAL_assignments/tree/master/src/StaticAnalysisVSSL)
